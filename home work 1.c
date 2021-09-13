@@ -7,7 +7,7 @@ int weeks;
 int days;
 printf("enter days you have:");
 scanf("%d",&mydays);
-years=mydays%*/
+years=mydays%
 int r;
 int d=r*r;
 int pie=3.14;
@@ -18,7 +18,7 @@ scanf("%d",&r);
 printf("\nthe diameter is:%d",r*r);
 printf("\nthe circumference of this circle is:%d",d*pie);
 printf("the area of this circle is:%d",);
-
+*/
 
 int marks1;
 int marks2;
@@ -43,7 +43,7 @@ average=total/5
 
 printf("the total marks is:",total);
 printf("the average marks is:",average);
-
+}
 
 
 
