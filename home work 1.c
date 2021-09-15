@@ -43,6 +43,7 @@ average=total/5
 
 printf("the total marks is:",total);
 printf("the average marks is:",average);
+printf("good bye!");
 }
 
 
